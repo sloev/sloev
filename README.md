@@ -1,8 +1,7 @@
 ![header image](https://raw.githubusercontent.com/sloev/sloev/master/github_profile_header.gif)
 
 
-........ ![header image](https://raw.githubusercontent.com/sloev/sloev/master/under_construction.gif) ........ [![visits](https://komarev.com/ghpvc/?username=sloev&color=brightgreen&label=visitors)](https://sloev.github.io) [![support nts](https://img.shields.io/static/v1?label=I%20support&message=nts.live%20radio&color=blueviolet)](https://www.nts.live/supporters)
-
+........ ![header image](https://raw.githubusercontent.com/sloev/sloev/master/under_construction.gif) ........ [![visits](https://komarev.com/ghpvc/?username=sloev&color=brightgreen&label=visitors)](https://sloev.github.io)
 **Helloooo** i am **sloev** / `supernihil` / _johannes_ / ~whatever...~
 
 ```diff

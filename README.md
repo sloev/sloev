@@ -36,6 +36,7 @@ If you wanna **support my endeavors** you can do so here:
 
     [![lambdarest mug](https://github.com/sloev/python-lambdarest/blob/master/.github/lambdarest_mug.png)](https://www.redbubble.com/i/mug/Lambdarest-by-sloev/73793554.9Q0AD)
 
+<img src="https://hookrace.net/time.gif">
 **I, or my kids, recently listened to:**
 
 [![spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=7k06lc8ikbcq4n5iaxrax44p5&cover_image=true&theme=novatorem)](https://open.spotify.com/user/7k06lc8ikbcq4n5iaxrax44p5?si=de34d4941c3d47ed)

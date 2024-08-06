@@ -4,6 +4,18 @@
 ........ ![header image](https://raw.githubusercontent.com/sloev/sloev/master/under_construction.gif) ........ [![visits](https://komarev.com/ghpvc/?username=sloev&color=brightgreen&label=visitors)](https://sloev.github.io)
 **Helloooo** i am **sloev** / `supernihil` / _johannes_ / ~whatever...~
 
+
+
+Info: https://sekvens.buro.earth/
+Timeplan: https://lh3.googleusercontent.com/d/1_di3oSbRkqjRKN_m8zmDvbGTALxcA2hu=w1500
+Dato: 30 august -1 september
+Priser: 350kr (dag) / 600kr (partout) 
+Mad: inkluderet
+Headlining: Matriark (cph)
+
+Tæt på strand, skov, vikinge lader og middelalder tårne
+
+
 ```diff
 
 ! I like to

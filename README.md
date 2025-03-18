@@ -2,19 +2,7 @@
 
 
 ........ ![header image](https://raw.githubusercontent.com/sloev/sloev/master/under_construction.gif) ........ [![visits](https://komarev.com/ghpvc/?username=sloev&color=brightgreen&label=visitors)](https://sloev.github.io)
-**Helloooo** i am **sloev** / `supernihil` / _johannes_ / ~whatever...~
-
-
-
-Info: https://sekvens.buro.earth/
-Timeplan: https://lh3.googleusercontent.com/d/1_di3oSbRkqjRKN_m8zmDvbGTALxcA2hu=w1500
-Dato: 30 august -1 september
-Priser: 350kr (dag) / 600kr (partout) 
-Mad: inkluderet
-Headlining: Matriark (cph)
-
-Tæt på strand, skov, vikinge lader og middelalder tårne
-
+**Helloooo** i am **sloev** / `supernihil` ~
 
 ```diff
 
@@ -49,9 +37,6 @@ If you wanna **support my endeavors** you can do so here:
     [![lambdarest mug](https://github.com/sloev/python-lambdarest/blob/master/.github/lambdarest_mug.png)](https://www.redbubble.com/i/mug/Lambdarest-by-sloev/73793554.9Q0AD)
 
 <img src="https://gifstream.ncp.nathanferns.xyz/est/time.gif?">
-**I, or my kids, recently listened to:**
-
-[![spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=7k06lc8ikbcq4n5iaxrax44p5&cover_image=true&theme=novatorem)](https://open.spotify.com/user/7k06lc8ikbcq4n5iaxrax44p5?si=de34d4941c3d47ed)
 
 **I recently wrote some code resulting in this infographic changing a bit:**
 
